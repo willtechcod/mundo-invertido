@@ -1,5 +1,5 @@
   <p align="center">
-  <img alt="MyPortfólio_Icon" src="https://i.imgur.com/2ydQUMt.png" width="30%"> 
+  <img alt="MyPortfólio_Icon" src="https://i.imgur.com/EAp3zw7.png" width="30%"> 
   </p>
 
   <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="MyLinks" src="./github/Mockup.png " width="70%"> 
+  <img alt="MyLinks" src=".github/Mockup.png " width="70%"> 
   </p>
 
 # :clipboard: Sobre o projeto
@@ -20,7 +20,7 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 <br>
 <p align="center">
-  <img alt="MyLinks" src="./github/mundoInvertido.gif" width="70%"> 
+  <img alt="MyLinks" src=".github/mundoInvertido.gif" width="70%"> 
   </p>
 
 # 🔗 Acesse o site com o link abaixo.
@@ -36,5 +36,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 <p align="center">
-  <img src="./github/Icon.png" width="15%">
+  <img src=".github/Icon.png" width="15%">
   </p>
