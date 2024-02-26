@@ -1,16 +1,3 @@
-  <p align="center">
-  <img alt="MyPortfólio_Icon" src="https://i.imgur.com/EAp3zw7.png" width="30%"> 
-  </p>
-
-  <p align="center">
-  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/degabrielofi/MyPortfolio?color=60dbfc">
-  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/degabrielofi/MyPortfolio?color=60dbfc">
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/degabrielofi/MyPortfolio?color=60dbfc">
-</p>
-
-<p align="center">
-  <img alt="MyLinks" src=".github/Mockup.png " width="70%"> 
-  </p>
 
 # :clipboard: Sobre o projeto
 
@@ -25,7 +12,7 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 # 🔗 Acesse o site com o link abaixo.
 
-- [Mundo Invertido | STRANGER THINGS ](http://projeto.dio.willtechcod.com/)
+- [Mundo Invertido | STRANGER THINGS ]([http://projeto.dio.willtechcod.com/](https://willtechcod.github.io/mundo-invertido/))
 
 ## :computer: Tecnologias utilizadas
 
