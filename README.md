@@ -12,7 +12,7 @@ Abaixo podemos ver o resultado final do projeto. Espero que gostem!
 
 # 🔗 Acesse o site com o link abaixo.
 
-- [Mundo Invertido | STRANGER THINGS ]([http://projeto.dio.willtechcod.com/](https://willtechcod.github.io/mundo-invertido/))
+- [Mundo Invertido | STRANGER THINGS ](https://willtechcod.github.io/mundo-invertido/)
 
 ## :computer: Tecnologias utilizadas
 
